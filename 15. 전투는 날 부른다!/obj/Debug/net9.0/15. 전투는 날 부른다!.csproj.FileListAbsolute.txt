@@ -1,0 +1,14 @@
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\bin\Debug\net9.0\15. 전투는 날 부른다!.exe
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\bin\Debug\net9.0\15. 전투는 날 부른다!.deps.json
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\bin\Debug\net9.0\15. 전투는 날 부른다!.runtimeconfig.json
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\bin\Debug\net9.0\15. 전투는 날 부른다!.dll
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\bin\Debug\net9.0\15. 전투는 날 부른다!.pdb
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\obj\Debug\net9.0\15. 전투는 날 부른다!.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\obj\Debug\net9.0\15. 전투는 날 부른다!.AssemblyInfoInputs.cache
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\obj\Debug\net9.0\15. 전투는 날 부른다!.AssemblyInfo.cs
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\obj\Debug\net9.0\15. 전투는 날 부른다!.csproj.CoreCompileInputs.cache
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\obj\Debug\net9.0\15. 전투는 날 부른다!.dll
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\obj\Debug\net9.0\refint\15. 전투는 날 부른다!.dll
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\obj\Debug\net9.0\15. 전투는 날 부른다!.pdb
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\obj\Debug\net9.0\15. 전투는 날 부른다!.genruntimeconfig.cache
+C:\0. Development\[C#] Practicing\15. 전투는 날 부른다!\obj\Debug\net9.0\ref\15. 전투는 날 부른다!.dll

@@ -1,0 +1,61 @@
+🔧 프로젝트 생성 및 실행
+dotnet new console -n MyApp              // 새 콘솔 앱 생성
+cd MyApp                                 // 프로젝트 폴더로 이동
+dotnet run                               // 앱 실행
+dotnet build                             // 프로젝트 빌드
+dotnet clean                             // 빌드 결과물 정리
+
+📦 NuGet 패키지 관리
+dotnet add package [패키지명]            // NuGet 패키지 추가
+dotnet remove package [패키지명]         // 패키지 제거
+dotnet list package                      // 설치된 패키지 목록 확인
+
+🧪 테스트 및 배포
+dotnet test                              // 테스트 실행
+dotnet publish                           // 배포용 패키징
+
+🧰 도구 관리
+dotnet tool install -g [도구명]          // 글로벌 도구 설치
+dotnet tool list --global                // 설치된 글로벌 도구 목록
+dotnet tool run [도구명]                 // 도구 실행
+
+📊 정보 확인
+dotnet --info                            // .NET SDK 및 환경 정보
+dotnet --list-sdks                       // 설치된 SDK 목록
+dotnet --list-runtimes                   // 설치된 런타임 목록
+
+🧼 코드 정리
+dotnet format                            // 코드 자동 정리 (.NET 6 이상)
+
+📁 ML.NET 프로젝트 시작
+dotnet new console -n MLNetDemo          // ML.NET 콘솔 앱 생성
+cd MLNetDemo                             // 프로젝트 폴더로 이동
+
+📦 ML.NET 패키지 설치
+dotnet add package Microsoft.ML                  // ML.NET 핵심 패키지
+dotnet add package Microsoft.ML.Data             // 데이터 처리용
+dotnet add package Microsoft.ML.OnnxRuntime      // ONNX 모델 실행용
+
+🚀 실행 및 테스트
+dotnet run                                // 모델 학습 및 예측 실행
+dotnet build                              // 프로젝트 빌드
+
+📁 예제 구성 파일
+Program.cs
+SentimentData.cs
+SentimentPrediction.cs
+data/sentiment.csv
+
+
+
+dir
+
+//Show Project Files
+
+notepad.exe (File Name).cs
+
+//Write Project's Code In Notepad
+
+code .
+
+//Run VIsual Studio Code

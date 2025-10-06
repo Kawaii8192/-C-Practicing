@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 검 강화하기", "10. 검 강화하기.csproj", "{F337CA7A-37E1-5A5C-716C-08001357779F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F337CA7A-37E1-5A5C-716C-08001357779F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F337CA7A-37E1-5A5C-716C-08001357779F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F337CA7A-37E1-5A5C-716C-08001357779F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F337CA7A-37E1-5A5C-716C-08001357779F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29049A51-9D45-4BDE-94C7-CA63BDBF1D69}
+	EndGlobalSection
+EndGlobal

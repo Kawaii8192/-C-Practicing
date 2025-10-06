@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "3. 테란-프로토스 연합의 인구수/1.0.0": {
+        "runtime": {
+          "3. 테란-프로토스 연합의 인구수.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3. 테란-프로토스 연합의 인구수/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

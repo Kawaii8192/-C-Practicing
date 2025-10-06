@@ -1,0 +1,14 @@
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\bin\Debug\net9.0\7. 피닉스의 훈련!.exe
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\bin\Debug\net9.0\7. 피닉스의 훈련!.deps.json
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\bin\Debug\net9.0\7. 피닉스의 훈련!.runtimeconfig.json
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\bin\Debug\net9.0\7. 피닉스의 훈련!.dll
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\bin\Debug\net9.0\7. 피닉스의 훈련!.pdb
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\obj\Debug\net9.0\7. 피닉스의 훈련!.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\obj\Debug\net9.0\7. 피닉스의 훈련!.AssemblyInfoInputs.cache
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\obj\Debug\net9.0\7. 피닉스의 훈련!.AssemblyInfo.cs
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\obj\Debug\net9.0\7. 피닉스의 훈련!.csproj.CoreCompileInputs.cache
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\obj\Debug\net9.0\7. 피닉스의 훈련!.dll
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\obj\Debug\net9.0\refint\7. 피닉스의 훈련!.dll
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\obj\Debug\net9.0\7. 피닉스의 훈련!.pdb
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\obj\Debug\net9.0\7. 피닉스의 훈련!.genruntimeconfig.cache
+C:\0. Development\[C#] Practicing\7. 피닉스의 훈련!\obj\Debug\net9.0\ref\7. 피닉스의 훈련!.dll

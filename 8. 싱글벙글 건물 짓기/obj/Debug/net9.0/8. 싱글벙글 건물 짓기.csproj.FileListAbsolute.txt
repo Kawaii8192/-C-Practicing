@@ -1,0 +1,14 @@
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\bin\Debug\net9.0\8. 싱글벙글 건물 짓기.exe
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\bin\Debug\net9.0\8. 싱글벙글 건물 짓기.deps.json
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\bin\Debug\net9.0\8. 싱글벙글 건물 짓기.runtimeconfig.json
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\bin\Debug\net9.0\8. 싱글벙글 건물 짓기.dll
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\bin\Debug\net9.0\8. 싱글벙글 건물 짓기.pdb
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\obj\Debug\net9.0\8. 싱글벙글 건물 짓기.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\obj\Debug\net9.0\8. 싱글벙글 건물 짓기.AssemblyInfoInputs.cache
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\obj\Debug\net9.0\8. 싱글벙글 건물 짓기.AssemblyInfo.cs
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\obj\Debug\net9.0\8. 싱글벙글 건물 짓기.csproj.CoreCompileInputs.cache
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\obj\Debug\net9.0\8. 싱글벙글 건물 짓기.dll
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\obj\Debug\net9.0\refint\8. 싱글벙글 건물 짓기.dll
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\obj\Debug\net9.0\8. 싱글벙글 건물 짓기.pdb
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\obj\Debug\net9.0\8. 싱글벙글 건물 짓기.genruntimeconfig.cache
+C:\0. Development\[C#] Practicing\8. 싱글벙글 건물 짓기\obj\Debug\net9.0\ref\8. 싱글벙글 건물 짓기.dll

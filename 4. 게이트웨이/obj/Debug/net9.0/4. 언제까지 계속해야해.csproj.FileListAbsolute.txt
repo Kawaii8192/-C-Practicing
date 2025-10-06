@@ -1,0 +1,14 @@
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\obj\Debug\net9.0\4. 언제까지 계속해야해.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\obj\Debug\net9.0\4. 언제까지 계속해야해.AssemblyInfoInputs.cache
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\obj\Debug\net9.0\4. 언제까지 계속해야해.AssemblyInfo.cs
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\obj\Debug\net9.0\4. 언제까지 계속해야해.csproj.CoreCompileInputs.cache
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\bin\Debug\net9.0\4. 언제까지 계속해야해.exe
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\bin\Debug\net9.0\4. 언제까지 계속해야해.deps.json
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\bin\Debug\net9.0\4. 언제까지 계속해야해.runtimeconfig.json
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\bin\Debug\net9.0\4. 언제까지 계속해야해.dll
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\bin\Debug\net9.0\4. 언제까지 계속해야해.pdb
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\obj\Debug\net9.0\4. 언제까지 계속해야해.dll
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\obj\Debug\net9.0\refint\4. 언제까지 계속해야해.dll
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\obj\Debug\net9.0\4. 언제까지 계속해야해.pdb
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\obj\Debug\net9.0\4. 언제까지 계속해야해.genruntimeconfig.cache
+C:\0. Development\0. [C#] Practicing\4. 언제까지 계속해야해\obj\Debug\net9.0\ref\4. 언제까지 계속해야해.dll

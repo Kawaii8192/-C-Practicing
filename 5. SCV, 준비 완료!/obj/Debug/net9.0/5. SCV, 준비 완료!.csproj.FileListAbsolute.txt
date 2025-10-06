@@ -1,0 +1,14 @@
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\bin\Debug\net9.0\5. SCV, 준비 완료!.exe
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\bin\Debug\net9.0\5. SCV, 준비 완료!.deps.json
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\bin\Debug\net9.0\5. SCV, 준비 완료!.runtimeconfig.json
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\bin\Debug\net9.0\5. SCV, 준비 완료!.dll
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\bin\Debug\net9.0\5. SCV, 준비 완료!.pdb
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\obj\Debug\net9.0\5. SCV, 준비 완료!.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\obj\Debug\net9.0\5. SCV, 준비 완료!.AssemblyInfoInputs.cache
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\obj\Debug\net9.0\5. SCV, 준비 완료!.AssemblyInfo.cs
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\obj\Debug\net9.0\5. SCV, 준비 완료!.csproj.CoreCompileInputs.cache
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\obj\Debug\net9.0\5. SCV, 준비 완료!.dll
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\obj\Debug\net9.0\refint\5. SCV, 준비 완료!.dll
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\obj\Debug\net9.0\5. SCV, 준비 완료!.pdb
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\obj\Debug\net9.0\5. SCV, 준비 완료!.genruntimeconfig.cache
+C:\0. Development\0. [C#] Practicing\5. SCV, 준비 완료!\obj\Debug\net9.0\ref\5. SCV, 준비 완료!.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. 야생의 케리건을 만났다", "9. 야생의 케리건을 만났다.csproj", "{C90D53BD-CBBB-98D8-2E04-D73EA2AE6E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C90D53BD-CBBB-98D8-2E04-D73EA2AE6E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90D53BD-CBBB-98D8-2E04-D73EA2AE6E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90D53BD-CBBB-98D8-2E04-D73EA2AE6E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90D53BD-CBBB-98D8-2E04-D73EA2AE6E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C45C0F21-79FD-4B3A-B70E-D5E88D1C0E7E}
+	EndGlobalSection
+EndGlobal

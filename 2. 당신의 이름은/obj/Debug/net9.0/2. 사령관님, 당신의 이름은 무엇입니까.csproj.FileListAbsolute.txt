@@ -1,0 +1,14 @@
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\obj\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\obj\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.AssemblyInfoInputs.cache
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\obj\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.AssemblyInfo.cs
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\obj\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.csproj.CoreCompileInputs.cache
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\bin\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.exe
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\bin\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.deps.json
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\bin\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.runtimeconfig.json
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\bin\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.dll
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\bin\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.pdb
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\obj\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.dll
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\obj\Debug\net9.0\refint\2. 사령관님, 당신의 이름은 무엇입니까.dll
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\obj\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.pdb
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\obj\Debug\net9.0\2. 사령관님, 당신의 이름은 무엇입니까.genruntimeconfig.cache
+C:\0. Developing\0. [C#] Practicing\2. 사령관님, 당신의 이름은 무엇입니까\obj\Debug\net9.0\ref\2. 사령관님, 당신의 이름은 무엇입니까.dll
